@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    position: relative;
+}
+
+.acc_dian{
+    left: 25%;
+    width: 50%;
+    
+}
+
+
+@media (max-width: 426px){
+    .acc_dian{
+        width: 80%;
+        left: 10%;
+    }
+}
